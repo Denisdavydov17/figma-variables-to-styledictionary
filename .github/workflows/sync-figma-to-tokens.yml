@@ -38,7 +38,7 @@ jobs:
         run: npm run sync-figma-to-tokens -- --output tokens
         env:
           FILE_KEY: DgHIOwx5QGJjaJSrNqgQmr
-          PERSONAL_ACCESS_TOKEN: figd_igmT6nOgb8rAZGBC-DpEFuHbLk_jtky7a642BABz
+          PERSONAL_ACCESS_TOKEN: figd_8PW2uWpfLDfq4_lW6QIg2zPp66YKY--nT_QuAJwt
 
       # - name: Remove dollar signs from output (SD won't work otherwise)
       #   run: bash removedollarsigns.sh
